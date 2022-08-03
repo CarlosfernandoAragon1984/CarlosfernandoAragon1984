@@ -8,7 +8,7 @@ import SoftwareDeveloper from 'Carlos Aragón';
 
 class Bio extends SoftwareDeveloper {
   Nombre     = 'Aragón Carlos';
-  Título    = 'Lic.En Sistema de Información.';
+  Título    = 'Lic.En Sistema de Información.'Lic.En administración';
   Universidad  = 'Universidad de Buenos Aires';
   Localidad = 'Glew, Provincia de Buenos Aires';
 }

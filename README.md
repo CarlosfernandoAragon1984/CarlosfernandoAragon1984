@@ -20,11 +20,11 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-<p>⭐️ From [CarlosAragón](https://github.com/CarlosfernandoAragon1984)</p>
+⭐️ From [CarlosAragón](https://github.com/CarlosfernandoAragon1984)
 
 
 
-<p>  From[CarlosAragón Linkedin](https://www.linkedin.com/in/carlos-fernando-arag%C3%B3n-984b821a4/)</p>
+⭐️ From[CarlosAragón Linkedin](https://www.linkedin.com/in/carlos-fernando-arag%C3%B3n-984b821a4/)
   
   
   

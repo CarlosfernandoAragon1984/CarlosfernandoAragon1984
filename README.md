@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 
 
 
-⭐️ From[CarlosAragón Linkedin](https://www.linkedin.com/in/carlos-fernando-arag%C3%B3n-984b821a4/)
+⭐️ From [CarlosAragón Linkedin](https://www.linkedin.com/in/carlos-fernando-arag%C3%B3n-984b821a4/)
   
   
   
